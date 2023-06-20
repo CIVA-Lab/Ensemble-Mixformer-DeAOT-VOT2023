@@ -8,7 +8,15 @@ The tracker is an ensemble algorithm that adapts to different scenarios based on
 
 ## VOT Running
 
-To run it using VOT package, change **command = ensemble_mixformer_deaot** and give path accordingly in **trackers.ini**. 
+To run it using VOT package, change
+
+```
+command = ensemble_mixformer_deaot
+```
+and give path accordingly in 
+```
+trackers.ini
+```
 
 </br>
 
